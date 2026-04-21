@@ -1,16 +1,163 @@
-## Hi there 👋
+# 👨‍💻 Software Engineer | Full-Stack Developer | DevOps Enthusiast
 
-<!--
-**T-deve/T-deve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a Software Engineer focused on building scalable systems, clean architectures, and real-world applications. My expertise spans full-stack development, DevOps practices, and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+
+![Languages](https://skillicons.dev/icons?i=java,php,js,python,kotlin,cpp)
+
+- Java, PHP, JavaScript, Python, Kotlin, C++
+
+---
+
+### ⚙️ Backend Frameworks
+
+![Backend](https://skillicons.dev/icons?i=laravel,django,spring,nodejs)
+
+- Laravel, Django, Spring Boot, Node.js
+
+---
+
+### 🎨 Frontend Frameworks
+
+![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs)
+
+- React, Vue, Next.js, Nuxt.js
+
+---
+
+### 📱 Mobile Development
+
+![Mobile](https://skillicons.dev/icons?i=react,flutter)
+
+- React Native, Flutter
+
+---
+
+### 🌐 Markup & Styling
+
+![Markup](https://skillicons.dev/icons?i=html,css)
+
+- HTML, CSS
+
+---
+
+### 🎨 UI & Design Frameworks
+
+![UI](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)
+
+- Tailwind CSS, Bootstrap, Material UI, Chakra UI
+
+---
+
+### 🤖 AI & Computer Science
+
+![AI](https://skillicons.dev/icons?i=python)
+
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Data Structures
+- Design Patterns
+- System Design
+
+---
+
+## 🛠️ DevOps & System Administration (Linux)
+
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,nginx,git)
+
+- Docker & Containerization
+- Kubernetes (Learning / Intermediate)
+- Linux System Administration (Ubuntu Server)
+- Nginx & Apache Server Management
+- CI/CD Concepts & Automation
+- Git & Version Control
+
+---
+
+## 🏗️ Projects
+
+### 🔹 AI-Based Code Reviewer
+
+- Built from scratch without external APIs
+- Intelligent Python code analysis
+- Scalable architecture design
+
+### 🔹 SaaS Microservices Platform
+
+- Laravel + Node.js + Django
+- Distributed services architecture
+
+### 🔹 Online Agreement Signing System
+
+- React frontend
+- Dynamic PDF & email generation
+- Complex form system with JSON storage
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=T-deve&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-deve&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=T-deve&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-deve&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T-deve&theme=tokyo-night)
+
+---
+
+## 🔢 Commit & Profile Counters
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=T-deve&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/commit-activity/m/T-deve/T-deve?style=flat&color=blue&label=Monthly%20Commits" />
+  <img src="https://img.shields.io/github/last-commit/T-deve/T-deve?style=flat&color=brightgreen&label=Last%20Commit" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T-deve/T-deve/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmad-reza-tahoor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rezatahhor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I build systems, not just apps.
